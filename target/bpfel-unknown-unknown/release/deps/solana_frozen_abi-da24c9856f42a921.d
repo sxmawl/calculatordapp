@@ -1,0 +1,10 @@
+/Users/apple/Desktop/WEB3/Solana/calculatordapp/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-da24c9856f42a921.rmeta: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/abi_digester.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/abi_example.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/hash.rs
+
+/Users/apple/Desktop/WEB3/Solana/calculatordapp/target/bpfel-unknown-unknown/release/deps/libsolana_frozen_abi-da24c9856f42a921.rlib: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/abi_digester.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/abi_example.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/hash.rs
+
+/Users/apple/Desktop/WEB3/Solana/calculatordapp/target/bpfel-unknown-unknown/release/deps/solana_frozen_abi-da24c9856f42a921.d: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/abi_digester.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/abi_example.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/hash.rs
+
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/lib.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/abi_digester.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/abi_example.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-frozen-abi-1.7.11/src/hash.rs:

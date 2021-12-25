@@ -1,0 +1,18 @@
+/Users/apple/Desktop/WEB3/Solana/calculatordapp/target/rls/debug/deps/typenum-e73a2ae67012133a.rmeta: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/bit.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/int.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/marker_traits.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/operator_aliases.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/private.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/type_operators.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/uint.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/array.rs /Users/apple/Desktop/WEB3/Solana/calculatordapp/target/rls/debug/build/typenum-80e2a575080de4ac/out/op.rs /Users/apple/Desktop/WEB3/Solana/calculatordapp/target/rls/debug/build/typenum-80e2a575080de4ac/out/consts.rs
+
+/Users/apple/Desktop/WEB3/Solana/calculatordapp/target/rls/debug/deps/typenum-e73a2ae67012133a.d: /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/lib.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/bit.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/int.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/marker_traits.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/operator_aliases.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/private.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/type_operators.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/uint.rs /Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/array.rs /Users/apple/Desktop/WEB3/Solana/calculatordapp/target/rls/debug/build/typenum-80e2a575080de4ac/out/op.rs /Users/apple/Desktop/WEB3/Solana/calculatordapp/target/rls/debug/build/typenum-80e2a575080de4ac/out/consts.rs
+
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/lib.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/bit.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/int.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/marker_traits.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/operator_aliases.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/private.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/type_operators.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/uint.rs:
+/Users/apple/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.14.0/src/array.rs:
+/Users/apple/Desktop/WEB3/Solana/calculatordapp/target/rls/debug/build/typenum-80e2a575080de4ac/out/op.rs:
+/Users/apple/Desktop/WEB3/Solana/calculatordapp/target/rls/debug/build/typenum-80e2a575080de4ac/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/Users/apple/Desktop/WEB3/Solana/calculatordapp/target/rls/debug/build/typenum-80e2a575080de4ac/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/Users/apple/Desktop/WEB3/Solana/calculatordapp/target/rls/debug/build/typenum-80e2a575080de4ac/out/op.rs

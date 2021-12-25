@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/apple/Desktop/WEB3/Solana/calculatordapp/target/rls/debug/build/typenum-80e2a575080de4ac/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/apple/Desktop/WEB3/Solana/calculatordapp/target/rls/debug/build/typenum-80e2a575080de4ac/out/op.rs
